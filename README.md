@@ -1,5 +1,5 @@
-GlowGuide: Smart Beauty Calendar & Care Assistant
-GlowGuide is a mobile assistant designed to digitize cosmetic product tracking for modern consumers while leveraging artificial intelligence to analyze product ingredients. More than just a calendar, it also serves as a social platform where users can build communities based on their skin types.
+Skin Agenda: Smart Beauty Calendar & Care Assistant
+Skin Agenda is a mobile assistant designed to digitize cosmetic product tracking for modern consumers while leveraging artificial intelligence to analyze product ingredients. More than just a calendar, it also serves as a social platform where users can build communities based on their skin types.
 
 ✨ The Inspiration Behind the Project
 
